@@ -1,7 +1,7 @@
 {
-	user_1:{"name":"Alexey",
-		"surname":"Zubov",
-		"age":39,
-		"number of pets":0,
-		"desired salary":200000}
+	"name" : "Alexey",
+	"surname" : "Zubov",
+	"age" : 39,
+	"number_of_pets" : 0,
+	"desired_salary" : 200000
 }
